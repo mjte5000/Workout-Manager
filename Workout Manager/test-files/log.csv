@@ -1,20 +1,23 @@
-Date    Workout	Reps	Weight	Work
-11/11/2024  Back Extension	10	230	2300
-11/11/2024	Back Extension	10	240	2400
-11/11/2024	Back Extension	20	247.5	4950
-11/11/2024	Abdominal Crunch	10	160	1600
-11/11/2024	Abdominal Crunch	10	170	1700
-11/11/2024	Abdominal Crunch	10	180	1800
-11/11/2024	Seated Row	10	140	1400
-11/11/2024	Seated Row	10	140	1400
-11/11/2024	Seated Row	10	140	1400
-11/15/2024	Dependent Curl	10	80	800
-11/15/2024	Dependent Curl	8	85	680
-11/15/2024	Dependent Curl	9	70	630
-11/15/2024	Triceps Press	10	150	1500
-11/15/2024	Triceps Press	10	160	1600
-11/15/2024	Triceps Press	10	175	1750
-11/15/2024	Triceps Press	10	160	1600
-11/15/2024	Pectoral Fly	10	115	1150
-11/15/2024	Pectoral Fly	10	85	850
-11/15/2024	Pectoral Fly	10	85	850
+Date,Workout,Reps,Weight
+2024/11/11,Back Extension,10,230
+2024/11/11,Back Extension,10,240
+2024/11/11,Back Extension,20,247.5
+2024/11/11,Abdominal Crunch,10,160
+2024/11/11,Abdominal Crunch,10,170
+2024/11/11,Abdominal Crunch,10,180
+2024/11/11,Seated Row,10,140
+2024/11/11,Seated Row,10,140
+2024/11/11,Seated Row,10,140
+2024/11/15,Dependent Curl,10,80
+2024/11/15,Dependent Curl,8,85
+2024/11/15,Dependent Curl,9,70
+2024/11/15,Triceps Press,10,150
+2024/11/15,Triceps Press,10,160
+2024/11/15,Triceps Press,10,175
+2024/11/15,Triceps Press,10,160
+2024/11/15,Pectoral Fly,10,115
+2024/11/15,Pectoral Fly,10,85
+2024/11/15,Pectoral Fly,10,85
+2024/11/22,Back Extension,10,230
+2024/11/22,Back Extension,10,240
+2024/11/22,Back Extension,20,247.5
