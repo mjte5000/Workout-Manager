@@ -9,7 +9,7 @@ class MainWindow(QMainWindow):
     Creates the main window for the application.
     """
 
-    def __init__(self, parent:QWidget):
+    def __init__(self, parent:QWidget=None):
         """
         Creates and initializes a MainWindow object.
 
